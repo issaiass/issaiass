@@ -44,13 +44,13 @@ If you are here, you must know i like to build everything that i have in mind.  
 
 </p>
 
-[<img src="https://img.shields.io/badge/daqsys-informational" />](http://daqsyspty.com/) is my company and with a friend are trying to promote an objects counter application (people, cars, grocery store items, etc)!
+[<img src="https://img.shields.io/badge/daqsys-informational" />](http://daqsyspty.com/) is a way for me to improve my knowledge and advances in Robotics, Embodied AI, Computer Vision, Self Driving Cars, Autonomous Systems, etc. and other related areas like Reinforcement Learning, Deep Learning and Machine Learning, Artificial Ingelligence, Embedded Linux and Embedded Systems, but also to make it deployable using best practices in DevOps, DevSecOps, MLOps!
 
 </p>
 
 <p align="center">
 
-[<img src= "https://img.youtube.com/vi/FK6pzC6wRYo/0.jpg" />](https://youtu.be/FK6pzC6wRYo)
+[<img src= "https://img.youtube.com/vi/nVDbrvx11ko/0.jpg" />](https://youtu.be/nVDbrvx11ko)
 
 </p>
 
